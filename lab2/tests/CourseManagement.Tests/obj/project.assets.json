@@ -421,6 +421,19 @@
         "runtime": {
           "bin/placeholder/CourseManagement.dll": {}
         }
+      },
+      "CourseManagementApp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "CourseManagement": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CourseManagementApp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CourseManagementApp.dll": {}
+        }
       }
     }
   },
@@ -947,11 +960,16 @@
       "type": "project",
       "path": "../../src/CourseManagement/CourseManagement.csproj",
       "msbuildProject": "../../src/CourseManagement/CourseManagement.csproj"
+    },
+    "CourseManagementApp/1.0.0": {
+      "type": "project",
+      "path": "../../src/CourseManagementApp/CourseManagementApp.csproj",
+      "msbuildProject": "../../src/CourseManagementApp/CourseManagementApp.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "CourseManagement >= 1.0.0",
+      "CourseManagementApp >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.12.0",
       "coverlet.collector >= 6.0.2",
       "xunit >= 2.9.2",
@@ -983,8 +1001,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "/Users/bareckijmaksim/oop/lab2/src/CourseManagement/CourseManagement.csproj": {
-              "projectPath": "/Users/bareckijmaksim/oop/lab2/src/CourseManagement/CourseManagement.csproj"
+            "/Users/bareckijmaksim/oop/lab2/src/CourseManagementApp/CourseManagementApp.csproj": {
+              "projectPath": "/Users/bareckijmaksim/oop/lab2/src/CourseManagementApp/CourseManagementApp.csproj"
             }
           }
         }

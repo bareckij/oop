@@ -1,0 +1,46 @@
+# .NET build artifacts
+bin/
+obj/
+
+# Test result and coverage
+TestResults/
+*.trx
+*.coverage
+*.cov
+coverage*
+
+# VS Code settings
+.vscode/
+.code-workspace
+
+# User-specific files
+*.user
+*.suo
+*.rsuser
+
+# IDE caches
+.vs/
+RiderProjects.xml
+.idea/
+*.sln.iml
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+
+# Tooling
+/.sonarqube/
+/.scannerwork/
+
+# Misc
+*.swp
+*.tmp
+~$*

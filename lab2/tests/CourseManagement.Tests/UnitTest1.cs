@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Linq;
-using CourseManagement.Models;
-using CourseManagement.Services;
+using CourseManagement.Domain;
 
 namespace CourseManagement.Tests;
 

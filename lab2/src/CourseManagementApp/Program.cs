@@ -1,5 +1,4 @@
-﻿using CourseManagement.Models;
-using CourseManagement.Services;
+﻿using CourseManagement.Domain;
 using System;
 using System.Linq;
 
