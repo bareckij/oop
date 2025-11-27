@@ -1,0 +1,12 @@
+/Users/bareckijmaksim/oop/lab2/src/CourseManagement/bin/Debug/net9.0/CourseManagement.deps.json
+/Users/bareckijmaksim/oop/lab2/src/CourseManagement/bin/Debug/net9.0/CourseManagement.dll
+/Users/bareckijmaksim/oop/lab2/src/CourseManagement/bin/Debug/net9.0/CourseManagement.pdb
+/Users/bareckijmaksim/oop/lab2/src/CourseManagement/obj/Debug/net9.0/CourseManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bareckijmaksim/oop/lab2/src/CourseManagement/obj/Debug/net9.0/CourseManagement.AssemblyInfoInputs.cache
+/Users/bareckijmaksim/oop/lab2/src/CourseManagement/obj/Debug/net9.0/CourseManagement.AssemblyInfo.cs
+/Users/bareckijmaksim/oop/lab2/src/CourseManagement/obj/Debug/net9.0/CourseManagement.csproj.CoreCompileInputs.cache
+/Users/bareckijmaksim/oop/lab2/src/CourseManagement/obj/Debug/net9.0/CourseManagement.sourcelink.json
+/Users/bareckijmaksim/oop/lab2/src/CourseManagement/obj/Debug/net9.0/CourseManagement.dll
+/Users/bareckijmaksim/oop/lab2/src/CourseManagement/obj/Debug/net9.0/refint/CourseManagement.dll
+/Users/bareckijmaksim/oop/lab2/src/CourseManagement/obj/Debug/net9.0/CourseManagement.pdb
+/Users/bareckijmaksim/oop/lab2/src/CourseManagement/obj/Debug/net9.0/ref/CourseManagement.dll
