@@ -1,0 +1,34 @@
+*/bin
+*/obj
+
+# Rider / VS Code / VS
+.vs/
+.idea/
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+
+# Build outputs (more specific)
+**/bin/
+**/obj/
+
+# .NET artifacts
+*.log
+*.svclog
+*.pidb
+*.mdb
+*.pdb
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+packages/
+
+# OS
+.DS_Store
+Thumbs.db
